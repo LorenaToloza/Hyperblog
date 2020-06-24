@@ -6,4 +6,7 @@ Porque necesita actualizarse en conocimientos
 
 Estamos practicando la comparacion de archivos
 
-pruebas lorena de nuevo 
+Agregamos mas contenido a la historia para hacer verificacion de diferencias en los commit
+
+
+pruebas de check out
