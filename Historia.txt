@@ -6,4 +6,4 @@ Porque necesita actualizarse en conocimientos
 
 Estamos practicando la comparacion de archivos
 
-Agregamos mas contenido a la historia para hacer verificacion de diferencias en los commit
+pruebas lorena de nuevo 
