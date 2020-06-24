@@ -3,3 +3,5 @@ Esta es la historia de Lorena Toloza
 Tiene 38 años y esta aprendiendo Git
 
 Porque necesita actualizarse en conocimientos
+
+Estamos practicando la comparacion de archivos
